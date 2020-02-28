@@ -1,0 +1,19 @@
+{
+  "name": "grunt-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "author": "guozijun",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "grunt": ">=0.4.5",
+    "grunt-mocha": "^0.4.12"
+  }
+}
