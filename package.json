@@ -3,18 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "Gruntfile.js",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "mocha"
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-htmlmin": "^3.1.0"
   },
   "author": "guozijun",
-  "license": "MIT",
-  "devDependencies": {
-    "chai": "^4.2.0",
-    "grunt": "^1.0.4",
-    "grunt-mocha-cli": "^5.0.0",
-    "grunt-run": "^0.8.1"
-  }
+  "license": "MIT"
 }
