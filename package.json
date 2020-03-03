@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "grunt": "^1.0.4",
-    "grunt-contrib-htmlmin": "^3.1.0"
+    "grunt-contrib-cssmin": "^3.0.0"
   },
   "author": "guozijun",
   "license": "MIT"
